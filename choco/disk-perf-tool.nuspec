@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>disk-perf-tool</id>
+    <version>1.0.1</version>
+    <title>disk-perf-tool (Install)</title>
+    <authors>Paul M Smith</authors>
+    <projectUrl>https://github.com/pmsmith/DiskPerfTesting</projectUrl>
+    <tags>disk-perf-tool</tags>
+    <summary>disk space tooling</summary>
+    <description>disk space tooling</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
